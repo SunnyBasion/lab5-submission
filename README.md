@@ -29,6 +29,7 @@ git add seneca*
 git commit -m "Individual message or note."
 git push
 ```
+<img width="1919" height="1079" alt="Part 4 Step 7 Deleting the feature branch local repo and remote repo " src="https://github.com/user-attachments/assets/55cfd3b0-bff1-4d5b-bdcd-9455fffc61d6" />
 
 You can make changes to your scripts and reupload as many times as you like. Make sure you commit+push to do so.
 
